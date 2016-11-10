@@ -1,5 +1,5 @@
 /**
- CSCI 4611 Spring '16 Assignment #1: Text Rain
+ Bonsa Tilahun: Text Rain
  **/
 
 
